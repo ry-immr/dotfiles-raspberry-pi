@@ -1,5 +1,6 @@
 set fenc=utf-8
-syntax on
+syntax enable
+colorscheme elflord
 
 set number
 set showmatch
